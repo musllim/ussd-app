@@ -1,4 +1,4 @@
-#### ussd-app
+# ussd-app
 This is a Node.js application for a USSD (Unstructured Supplementary Service Data) program. It allows users to interact with the application using a USSD menu on their mobile devices. The application is built using Express.js and utilizes the Africastalking API for USSD functionality.
 
 ## Installation
@@ -7,7 +7,7 @@ Before running the application, make sure you have Node.js and NPM (Node Package
 Clone the repository:
 git clone https://github.com/emilenfc/ussd-app.git
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 
 
 cd ussd-app
@@ -39,5 +39,5 @@ nodemon: ^3.0.1
 ussd-menu-builder: ^1.2.0
 
 Author
-# IYADUKUNZE Emile
+### IYADUKUNZE Emile
 Feel free to contact the author if you have any questions or suggestions.
